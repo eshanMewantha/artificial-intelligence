@@ -4,120 +4,120 @@ Worse yet, an unattended fox will eat a goose, and an unattended goose will eat 
 So the farmer must not leave the fox alone with the goose or the goose alone with the grain. What is he to do ?
 
 
-Solution 1 ===================================================
+	Solution 1 ===================================================
 
 
- Farmer	|~~~~~~~|
- Grain 	|~~~~~~~|
- Goose 	|~~~~~~~|
- Fox 	|~~~~~~~|
-
-
-
-       	|~~~~~~~|	 Farmer
- Grain 	|~~~~~~~|
-       	|~~~~~~~|	 Goose
- Fox 	|~~~~~~~|
+	 Farmer	|~~~~~~~|
+	 Grain 	|~~~~~~~|
+	 Goose 	|~~~~~~~|
+	 Fox 	|~~~~~~~|
 
 
 
- Farmer	|~~~~~~~|
- Grain 	|~~~~~~~|
-       	|~~~~~~~|	 Goose
- Fox 	|~~~~~~~|
+	        |~~~~~~~|	 Farmer
+	 Grain 	|~~~~~~~|
+	        |~~~~~~~|	 Goose
+	 Fox 	|~~~~~~~|
 
 
 
-       	|~~~~~~~|	 Farmer
- Grain 	|~~~~~~~|
-       	|~~~~~~~|	 Goose
-       	|~~~~~~~|	 Fox
+	 Farmer	|~~~~~~~|
+	 Grain 	|~~~~~~~|
+	        |~~~~~~~|	 Goose
+	 Fox 	|~~~~~~~|
 
 
 
- Farmer	|~~~~~~~|
- Grain 	|~~~~~~~|
- Goose 	|~~~~~~~|
-       	|~~~~~~~|	 Fox
+	        |~~~~~~~|	 Farmer
+	 Grain 	|~~~~~~~|
+	        |~~~~~~~|	 Goose
+	        |~~~~~~~|	 Fox
 
 
 
-       	|~~~~~~~|	 Farmer
-       	|~~~~~~~|	 Grain
- Goose 	|~~~~~~~|
-       	|~~~~~~~|	 Fox
+	 Farmer	|~~~~~~~|
+	 Grain 	|~~~~~~~|
+	 Goose 	|~~~~~~~|
+	        |~~~~~~~|	 Fox
 
 
 
- Farmer	|~~~~~~~|
-       	|~~~~~~~|	 Grain
- Goose 	|~~~~~~~|
-       	|~~~~~~~|	 Fox
+	        |~~~~~~~|	 Farmer
+	        |~~~~~~~|	 Grain
+	 Goose 	|~~~~~~~|
+	        |~~~~~~~|	 Fox
 
 
 
-       	|~~~~~~~|	 Farmer
-       	|~~~~~~~|	 Grain
-       	|~~~~~~~|	 Goose
-       	|~~~~~~~|	 Fox
-
-
-Solution 2 ===================================================
-
-
- Farmer	|~~~~~~~|
- Grain 	|~~~~~~~|
- Goose 	|~~~~~~~|
- Fox 	|~~~~~~~|
+	 Farmer	|~~~~~~~|
+	        |~~~~~~~|	 Grain
+	 Goose 	|~~~~~~~|
+	        |~~~~~~~|	 Fox
 
 
 
-       	|~~~~~~~|	 Farmer
- Grain 	|~~~~~~~|
-       	|~~~~~~~|	 Goose
- Fox 	|~~~~~~~|
+	        |~~~~~~~|	 Farmer
+	        |~~~~~~~|	 Grain
+	        |~~~~~~~|	 Goose
+	        |~~~~~~~|	 Fox
+
+
+	Solution 2 ===================================================
+
+
+	 Farmer	|~~~~~~~|
+	 Grain 	|~~~~~~~|
+	 Goose 	|~~~~~~~|
+	 Fox 	|~~~~~~~|
 
 
 
- Farmer	|~~~~~~~|
- Grain 	|~~~~~~~|
-       	|~~~~~~~|	 Goose
- Fox 	|~~~~~~~|
+	        |~~~~~~~|	 Farmer
+	 Grain 	|~~~~~~~|
+	        |~~~~~~~|	 Goose
+	 Fox 	|~~~~~~~|
 
 
 
-       	|~~~~~~~|	 Farmer
-       	|~~~~~~~|	 Grain
-       	|~~~~~~~|	 Goose
- Fox 	|~~~~~~~|
+	 Farmer	|~~~~~~~|
+	 Grain 	|~~~~~~~|
+	        |~~~~~~~|	 Goose
+	 Fox 	|~~~~~~~|
 
 
 
- Farmer	|~~~~~~~|
-       	|~~~~~~~|	 Grain
- Goose 	|~~~~~~~|
- Fox 	|~~~~~~~|
+	        |~~~~~~~|	 Farmer
+	        |~~~~~~~|	 Grain
+	        |~~~~~~~|	 Goose
+	 Fox 	|~~~~~~~|
 
 
 
-       	|~~~~~~~|	 Farmer
-       	|~~~~~~~|	 Grain
- Goose 	|~~~~~~~|
-       	|~~~~~~~|	 Fox
+	 Farmer	|~~~~~~~|
+	        |~~~~~~~|	 Grain
+	 Goose 	|~~~~~~~|
+	 Fox 	|~~~~~~~|
 
 
 
- Farmer	|~~~~~~~|
-       	|~~~~~~~|	 Grain
- Goose 	|~~~~~~~|
-       	|~~~~~~~|	 Fox
+	        |~~~~~~~|	 Farmer
+	        |~~~~~~~|	 Grain
+	 Goose 	|~~~~~~~|
+	        |~~~~~~~|	 Fox
 
 
 
-       	|~~~~~~~|	 Farmer
-       	|~~~~~~~|	 Grain
-       	|~~~~~~~|	 Goose
-       	|~~~~~~~|	 Fox
+	 Farmer	|~~~~~~~|
+	        |~~~~~~~|	 Grain
+	 Goose 	|~~~~~~~|
+	        |~~~~~~~|	 Fox
+
+
+
+	        |~~~~~~~|	 Farmer
+	        |~~~~~~~|	 Grain
+	        |~~~~~~~|	 Goose
+	        |~~~~~~~|	 Fox
 
 
 
