@@ -3,6 +3,8 @@ Unfortunately, his boat is so tiny he can take only one of his possessions acros
 Worse yet, an unattended fox will eat a goose, and an unattended goose will eat grain.
 So the farmer must not leave the fox alone with the goose or the goose alone with the grain. What is he to do ?
 
+Solution using semantic net (node-link representation)
+
 
 	Solution 1 ===================================================
 
